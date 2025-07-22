@@ -1,0 +1,22 @@
+Westwood Studios - Command and Conquer: Red Alert 2:
+bw_enemyalarm
+bwbed_destroyed
+bwgenerator_*
+bwsw_teameliminated
+swlowerlimit_on
+ipvp_click
+
+Valve - Half-Life:
+player_die
+equip_armor*
+
+Matt - Hideous Destructor:
+food_eat
+food_gulp
+
+potetobloke - Bangers And Mash:
+(source still unknown)
+player_hurt*
+
+Youtube:
+https://www.youtube.com/watch?v=TntTkJWIhek - arrow_impact*

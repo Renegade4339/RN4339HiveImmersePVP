@@ -1,0 +1,340 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    //vanilla Minecraft click replacement
+    "random.click": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IPVP/ipvp_click"
+      ]
+    },
+    //BedWars generator spawn
+    "mob.shulker.shoot": {
+      "category": "block",
+      "sounds": [
+        "sounds/IPVP/bwgenerator_spawn"
+      ]
+    },
+    //BedWars generator start
+    "block.beacon.activate": {
+      "category": "block",
+      "sounds": [
+        "sounds/IPVP/bwgenerator_on"
+      ]
+    },
+    "beacon.activate": {
+      "category": "block",
+      "sounds": [
+        "sounds/IPVP/bwgenerator_on"
+      ]
+    },
+    //BedWars generator offline... not sure if it plays
+    "block.beacon.deactivate": {
+      "category": "block",
+      "sounds": [
+        "sounds/IPVP/bwgenerator_off"
+      ]
+    },
+    "beacon.deactivate": {
+      "category": "block",
+      "sounds": [
+        "sounds/IPVP/bwgenerator_off"
+      ]
+    },
+    //BedWars generator ambient
+    "block.beacon.ambient": {
+      "category": "block",
+      "sounds": [
+        "sounds/IPVP/bwgenerator_ambient"
+      ]
+    },
+    "beacon.ambient": {
+      "category": "block",
+      "sounds": [
+        "sounds/IPVP/bwgenerator_ambient"
+      ]
+    },
+    //BedWars enemy alarm
+    "note.cow_bell": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IPVP/bw_enemyalarm"
+      ]
+    },
+    //team bed getting rekt
+    "entity.phantom.death": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IPVP/bwbed_destroyed"
+      ]
+    },
+    "mob.phantom.death": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IPVP/bwbed_destroyed"
+      ]
+    },
+    //SW/BW team eliminated
+    "mob.enderdragon.growl": {
+      "category": "ui",
+      "volume": 1,
+      "sounds": [
+        "sounds/IPVP/bwsw_teameliminated"
+      ]
+    },
+    "mob.guardian.death": {
+      "category": "ui",
+      "volume": 1,
+      "sounds": [
+        "sounds/IPVP/bwsw_teameliminated"
+      ]
+    },
+    //SkyWars barrier offline
+    "item.trident.return": {
+      "category": "block",
+      "volume": 0.15,
+      "sounds": [
+        "sounds/IPVP/bwgenerator_off"
+      ]
+    },
+    //SkyWars lower limit active
+    "block.beacon.power_select": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IPVP/swlowerlimit_on"
+      ]
+    },
+    "beacon.power": {
+      "category": "ui",
+      "sounds": [
+        "sounds/IPVP/swlowerlimit_on"
+      ]
+    },
+    //reused from ISG lolololol
+    //plasma rifle - projectile impact
+    "entity.arrow.hit": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/IPVP/arrow_impact1",
+        "sounds/IPVP/arrow_impact2",
+        "sounds/IPVP/arrow_impact3",
+        "sounds/IPVP/arrow_impact4"
+      ]
+    },
+    "random.bowhit": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/IPVP/arrow_impact1",
+        "sounds/IPVP/arrow_impact2",
+        "sounds/IPVP/arrow_impact3",
+        "sounds/IPVP/arrow_impact4"
+      ]
+    },
+    //armor
+    "item.armor.equip_leather": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/equip_armor1",
+        "sounds/IPVP/equip_armor2"
+      ]
+    },
+    "item.armor.equip_chain": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/equip_armor1",
+        "sounds/IPVP/equip_armor2"
+      ]
+    },
+    "item.armor.equip_iron": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/equip_armor1",
+        "sounds/IPVP/equip_armor2"
+      ]
+    },
+    "item.armor.equip_diamond": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/equip_armor1",
+        "sounds/IPVP/equip_armor2"
+      ]
+    },
+    "armor.equip_leather": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/equip_armor1",
+        "sounds/IPVP/equip_armor2"
+      ]
+    },
+    "armor.equip_chain": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/equip_armor1",
+        "sounds/IPVP/equip_armor2"
+      ]
+    },
+    "armor.equip_iron": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/equip_armor1",
+        "sounds/IPVP/equip_armor2"
+      ]
+    },
+    "armor.equip_diamond": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/equip_armor1",
+        "sounds/IPVP/equip_armor2"
+      ]
+    },
+    //ouch
+    "entity.player.hurt": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/player_hurt1",
+        "sounds/IPVP/player_hurt2"
+      ]
+    },
+    "game.player.hurt": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/player_hurt1",
+        "sounds/IPVP/player_hurt2"
+      ]
+    },
+    //ow. that mildly stings
+    "entity.player.death": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/player_die"
+      ]
+    },
+    "game.player.die": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/player_die"
+      ]
+    },
+    //NOM NOM NOM. OM. NOM.
+    "entity.generic.eat": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/food_eat"
+      ]
+    },
+    "random.eat": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/food_eat"
+      ]
+    },
+    //SANDVICH AND ME ARE GOING TO BEAT YOUR ASS.
+    "entity.generic.burp": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/food_gulp"
+      ]
+    },
+    "random.burp": {
+      "category": "player",
+      "sounds": [
+        "sounds/IPVP/food_gulp"
+      ]
+    },
+    //FOR REFERENCE, TO CONTRIBUTING TO ADDING MUSIC TO THIS PACK
+    //YOU MUST FOLLOW THE DIRECTORY LOCATION AS FOLLOWS:
+    //sounds/IPVP/music/(your name/contributor name)/(composer)/(soundtrack)
+
+    //GUIDELINES:
+    //1. It must be a (mostly) instrumental soundtrack.
+    //2. It should be fitting for a situation of combat.
+    //3. It must NOT be from a mainstream composer (i.e Lana Del Rey).
+    //4. The soundtrack should not be copyrighted. Refer to YouTube.
+    //5. If it's a remix, type the name initials of the original composer. (i.e fp_totalwar)
+  "ipvp.music": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/IPVP/music/renegade4339/blackice9/chaoticimpulse",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/blackice9/openingofthegates",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/blackice9/relativity",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/blackice9/solara",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/braindead",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/hellmarch",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/hellmarch2",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/hellmarch3",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/indeep",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/machinescollide",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/vigilante",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/lvoidtheendless/utgardaloki",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/prototyperaptor/premidiatedtreachery",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/smiechu/annihilationmarch",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/smiechu/fp_hellmarchtrilogy",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/smiechu/fp_totalwar",
+        "stream": true,
+        "volume": 0.35
+      }
+    ]
+  }
+ }
+}

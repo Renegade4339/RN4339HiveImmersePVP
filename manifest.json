@@ -1,0 +1,45 @@
+{
+      "metadata": {"authors": [
+        "Renegade4339"
+    ]},
+  "format_version": 2,
+  "header": {
+    "description": "§8For Hive's four PVP gamemodes.§r",
+    "name": "§8Immerse §cP§7v§bP§r",
+    "uuid": "fd7d9fcc-2388-426e-bea8-2e9fcc20b5d1",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "IPV",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "uuid": "b11b5473-68d8-4ba6-bbc1-c9933e0f73df",
+      "type": "resources"
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "blood",
+      "name": "Content Management - Blood: §4ON§r",
+      "text": "Adds bloodstains on melee weapons."
+    },
+    {
+      "folder_name": "no_blood",
+      "name": "Content Management - Blood: OFF",
+      "text": "Disables bloodstains on melee weapons."
+    }
+  ]
+}

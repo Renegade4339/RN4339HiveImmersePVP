@@ -1,0 +1,197 @@
+{
+    "game": {
+        "event_name" : "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+  "water": {
+        "event_name": "ipvp.music",
+        "min_delay": 180,
+        "max_delay": 540
+    },
+    "creative": {
+        "event_name" : "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "dripstone_caves": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "grove": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "jagged_peaks": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "lush_caves": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "meadow": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "frozen_peaks": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "snowy_slopes": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "stony_peaks": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "deep_dark": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "swampland": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "swampland_mutated": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "mangrove_swamp": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "bamboo_jungle": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "bamboo_jungle_hills": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "birch_forest": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "birch_forest_hills": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "roofed_forest": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "roofed_forest_mutated": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "forest": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "flower_forest": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "jungle": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "jungle_hills": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "jungle_mutated": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "mesa_plateau": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "mega_taiga": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "redwood_taiga_mutated": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "redwood_taiga_hills_mutated": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "birch_forest_mutated": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "mesa_plateau_mutated": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "cherry_grove": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "desert": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "desert_hills": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "desert_hills_mutated": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "mesa": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "jungle_hills_mutated": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    },
+    "jungle_edge": {
+        "event_name": "ipvp.music",
+        "min_delay": 360,
+        "max_delay": 1260
+    }
+}
