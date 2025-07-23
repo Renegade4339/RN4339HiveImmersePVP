@@ -10,7 +10,7 @@
     "version": [
       0,
       0,
-      1
+      2
     ],
     "min_engine_version": [
       1,
@@ -24,7 +24,7 @@
       "version": [
         0,
         0,
-        1
+        2
       ],
       "uuid": "b11b5473-68d8-4ba6-bbc1-c9933e0f73df",
       "type": "resources"
@@ -34,11 +34,13 @@
     {
       "folder_name": "blood",
       "name": "Content Management - Blood: §4ON§r",
+      "memory_tier": 0,
       "text": "Adds bloodstains on melee weapons."
     },
     {
       "folder_name": "no_blood",
       "name": "Content Management - Blood: OFF",
+      "memory_tier": 0,
       "text": "Disables bloodstains on melee weapons."
     }
   ]
