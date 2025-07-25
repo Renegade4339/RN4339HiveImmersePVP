@@ -250,7 +250,7 @@
     //2. It should be fitting for a situation of combat.
     //3. It must NOT be from a mainstream composer (i.e Lana Del Rey).
     //4. The soundtrack should not be copyrighted. Refer to YouTube.
-    //5. If it's a remix, type the name initials of the original composer. (i.e fp_totalwar)
+    //5. If it's a remix, type the name initials of the original composer. (i.e fp_warfare)
   "ipvp.music": {
     "category": "music",
     "sounds": [
