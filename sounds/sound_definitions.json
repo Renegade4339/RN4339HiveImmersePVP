@@ -28,7 +28,7 @@
         "sounds/IPVP/bwgenerator_on"
       ]
     },
-    //BedWars generator offline... not sure if it plays
+    //BedWars generator offline
     "block.beacon.deactivate": {
       "category": "block",
       "sounds": [
@@ -97,17 +97,18 @@
         "sounds/IPVP/bwgenerator_off"
       ]
     },
-    //SkyWars lower limit active
+    //SkyWars lower limit active,
+    //BedWars spawn protection expiring
     "block.beacon.power_select": {
       "category": "ui",
       "sounds": [
-        "sounds/IPVP/swlowerlimit_on"
+        "sounds/IPVP/bwsw_spawnprotlowerlimit"
       ]
     },
     "beacon.power": {
       "category": "ui",
       "sounds": [
-        "sounds/IPVP/swlowerlimit_on"
+        "sounds/IPVP/bwsw_spawnprotlowerlimit"
       ]
     },
     //reused from ISG lolololol
@@ -228,7 +229,7 @@
         "sounds/IPVP/food_eat"
       ]
     },
-    //SANDVICH AND ME ARE GOING TO BEAT YOUR ASS.
+    //SANDVICH AND ME ARE GOING TO BEAT YOUR A-
     "entity.generic.burp": {
       "category": "player",
       "sounds": [
