@@ -1,2 +1,5 @@
 v0.0.1 (25-07-23)
 Initial release (goddamn it Spck Editor)
+
+v0.0.2 (25-10-19)
+Added more tracks... no textures yet

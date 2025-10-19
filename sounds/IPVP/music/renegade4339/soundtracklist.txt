@@ -1,14 +1,30 @@
-Smiechu - Annihilation March
-Smiechu - Hell March Trilogy
-Smiechu - remix of Frank Klepacki's Warfare (Full Stop)
-Frank Klepacki - Machines Collide
-Frank Klepacki - Brain Dead
-Frank Klepacki - Vigilante
-Frank Klepacki - In Deep
-Frank Klepacki - Hell March, HM2, and HM3
-PrototypeRaptor - Premeditated Treachery
-Black Ice 9 - Chaotic Impulse
-Black Ice 9 - Opening Of The Gates
-Black Ice 9 - Solara
-Black Ice 9 - Relativity
+Black Ice 9:
+ - Beyond The Obsidian Sands
+ - Chaotic Impulse
+ - Echo
+ - Frostburn
+ - Opening Of The Gates
+ - Relativity
+ - Solara
+Frank Klepacki:
+ - Act On Instinct
+ - Brain Dead
+ - Construct
+ - Get On It
+ - Hell March, HM2, and HM3
+ - In Deep
+ - Kill
+ - Machines Collide
+ - Morphscape
+ - Ownage
+ - Rocktronic
+ - Sonic Pain
+ - The Reaping
+ - Vigilante
 LVoidTheEndless - Utgard Loki
+PrototypeRaptor - Premeditated Treachery
+Smiechu:
+ - Annihilation March
+ - Hell March Trilogy
+ - remix of Frank Klepacki's Warfare (Full Stop)
+World Beyond - Remnant of The Distant Future

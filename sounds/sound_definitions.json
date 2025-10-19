@@ -256,7 +256,22 @@
     "category": "music",
     "sounds": [
       {
+        "name": "sounds/IPVP/music/renegade4339/blackice9/beyondtheobsidiansands",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
         "name": "sounds/IPVP/music/renegade4339/blackice9/chaoticimpulse",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/blackice9/echo",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/blackice9/frostburn",
         "stream": true,
         "volume": 0.35
       },
@@ -276,7 +291,22 @@
         "volume": 0.35
       },
       {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/actoninstinct",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
         "name": "sounds/IPVP/music/renegade4339/frankklepacki/braindead",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/construct",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/getonit",
         "stream": true,
         "volume": 0.35
       },
@@ -301,7 +331,37 @@
         "volume": 0.35
       },
       {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/kill",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
         "name": "sounds/IPVP/music/renegade4339/frankklepacki/machinescollide",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/morphscape",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/ownage",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/rocktronic",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/sonicpain",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/frankklepacki/thereaping",
         "stream": true,
         "volume": 0.35
       },
@@ -332,6 +392,11 @@
       },
       {
         "name": "sounds/IPVP/music/renegade4339/smiechu/fp_warfare",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/IPVP/music/renegade4339/worldbeyond/remnantofthedistantfuture",
         "stream": true,
         "volume": 0.35
       }
